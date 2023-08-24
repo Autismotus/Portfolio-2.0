@@ -24,8 +24,8 @@ const About = () => {
                 </p>
             </div>
             <div className="stage-cube-cont">
-                <div className="cubespinner">
-                <div className="face1">
+          <div className="cubespinner">
+            <div className="face1">
               <FontAwesomeIcon icon={faAngular} color="#DD0031" />
             </div>
             <div className="face2">
@@ -43,8 +43,8 @@ const About = () => {
             <div className="face6">
               <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
             </div>
-                </div>
-            </div>
+          </div>
+        </div>
         </div>
     )
 }

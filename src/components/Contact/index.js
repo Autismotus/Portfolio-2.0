@@ -1,6 +1,8 @@
 import './Contact.scss'
 import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope} from '@fortawesome/free-solid-svg-icons';
 
 const Contact = () => {
   const form = useRef();
@@ -58,6 +60,11 @@ const Contact = () => {
                 </li>
               </ul>
             </form>
+            <div className="email-icon">
+            <FontAwesomeIcon  icon={faEnvelope} color="4d4d4e" />
+            <br></br>
+            <a class="e-btn" href = "mailto: isakthorstrom@gmail.com">Send Email directly here:</a>
+            </div>
             </div>
           </div>
   );

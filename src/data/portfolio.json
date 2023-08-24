@@ -17,6 +17,18 @@
             "cover": "/portfolio/1/relyfyller år.png",
             "title": "RelyIt 15 år",
             "description": "Wordpress site",
+            "url": "https://www.relyitfyllerar.se/"
+        },
+        {
+            "cover": "/portfolio/1/ibeacon.png",
+            "title": "iBeacon",
+            "description": "Wordpress site",
+            "url": "http://ibeacon.se"
+        },
+        {
+            "cover": "/portfolio/1/ibeacon.png",
+            "title": "iBeacon",
+            "description": "Wordpress site",
             "url": "http://ibeacon.se"
         }
     ]

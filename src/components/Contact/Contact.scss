@@ -1,10 +1,11 @@
 .contact-form {
   position: absolute;
-        left: 20%;
-        top: 30%;
+        left: 15%;
+        top: 18%;
         vertical-align: middle;
         display: table-cell;
         max-height: 90%;
+        width: 60%;
 
   ul {
     padding: 0;
@@ -74,6 +75,27 @@
     float: right;
     text-align: center;
     margin-right: 10px;
+  }
+
+  .email-icon {
+    font-family: 'Coolvetica';
+    font-weight: 200;
+    color: #ffd700;
+    font-size: 30px;
+    
+    .e-btn {
+      color: #000000;
+      font-family: 'Coolvetica';
+      font-size: 11px;
+      letter-spacing: 3px;
+      text-decoration: none;
+      padding: 8px 10px;
+      border: 1px solid #ffd700;
+      float: left;
+      border-radius: 4px;
+      background: #ffd700;
+      text-transform: uppercase;
+    }
   }
 }
    
