@@ -1,5 +1,5 @@
 import './skills.scss'
-import image1 from '../../assets/img/html-5 (1).png'
+import image1 from '../../assets/img/html.svg'
 import image2 from '../../assets/img/css.svg'
 import image3 from '../../assets/img/javascript.svg'
 import image4 from '../../assets/img/react.svg'
