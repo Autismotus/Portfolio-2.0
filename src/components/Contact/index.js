@@ -24,9 +24,9 @@ const Contact = () => {
        <div className="text-zone">
           <h1>Contact me</h1>
           <p>
-          Nulla facilisi. Curabitur ullamcorper interdum diam, eu gravida nunc mattis non. Nullam tincidunt dolor eget eros lacinia facilisis. Fusce eget fermentum neque. Donec id malesuada purus. 
-          Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+          You wish to contact me? Send a message to me or send an e-mail directly.
           </p>
+          <br />
             <form ref={form} onSubmit={sendEmail}>
               <ul>
                 <li className="half">

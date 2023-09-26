@@ -21,14 +21,13 @@
     align-items: center;
     text-align: center;
     grid-gap: 1rem;
-    padding: 1rem 80px;
+    padding: 1rem 300px;
     font-size: 1.2rem;
 }
 
 .skill-box{
     padding: 1rem;
     color: #ddd;
-    cursor: pointer;
 }
 
 .skill-title{
@@ -86,11 +85,6 @@
     height: 90px;
     background: rgba(100, 100, 100, 0.5);
     border-radius: 45px 0 0 45px;
-}
-
-.skill-title h3 {
-    color: #fff;
-    margin-top: 0.5rem;
 }
 
 .skill-icon {

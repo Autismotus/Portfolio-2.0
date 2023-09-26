@@ -21,9 +21,7 @@ const Skills = () => {
                         </div>
                         <h3 className="text-below">Wordpress</h3>
                     </div>
-                    <p>iwenbvubrenv rejbjebwh hwevfhwbf jbn4n4jnb.
-                        dsgsgbbtb ueuegvc wethtrb.
-                    </p>
+                   
                 </div>
 
                 <div className="skill-box">
@@ -33,9 +31,7 @@ const Skills = () => {
                         </div>
                         <h3 className="text-below">HTML</h3>
                     </div>
-                    <p>iwenbvubrenv rejbjebwh hwevfhwbf jbn4n4jnb.
-                        dsgsgbbtb ueuegvc wethtrb.
-                    </p>
+                   
                 </div>
 
                 <div className="skill-box">
@@ -45,9 +41,7 @@ const Skills = () => {
                         </div>
                         <h3 className="text-below">CSS</h3>
                     </div>
-                    <p>iwenbvubrenv rejbjebwh hwevfhwbf jbn4n4jnb.
-                        dsgsgbbtb ueuegvc wethtrb.
-                    </p>
+                   
                 </div>
 
                 <div className="skill-box">
@@ -57,9 +51,7 @@ const Skills = () => {
                         </div>
                         <h3 className="text-below">Javascript</h3>
                     </div>
-                    <p>iwenbvubrenv rejbjebwh hwevfhwbf jbn4n4jnb.
-                        dsgsgbbtb ueuegvc wethtrb.
-                    </p>
+                   
                 </div>
 
                 <div className="skill-box">
@@ -69,9 +61,7 @@ const Skills = () => {
                         </div>
                         <h3 className="text-below">React</h3>
                     </div>
-                    <p>iwenbvubrenv rejbjebwh hwevfhwbf jbn4n4jnb.
-                        dsgsgbbtb ueuegvc wethtrb.
-                    </p>
+                   
                 </div>
 
                 <div className="skill-box">
@@ -81,9 +71,7 @@ const Skills = () => {
                         </div>
                         <h3 className="text-below">Angular</h3>
                     </div>
-                    <p>iwenbvubrenv rejbjebwh hwevfhwbf jbn4n4jnb.
-                        dsgsgbbtb ueuegvc wethtrb.
-                    </p>
+                    
                 </div>
             </div>
             </div>
