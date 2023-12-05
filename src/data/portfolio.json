@@ -21,15 +21,15 @@
         },
         {
             "cover": "/portfolio/1/game.PNG",
-            "title": "iBeacon",
-            "description": "React project",
-            "url": "http://ibeacon.se"
+            "title": "Escape the woods",
+            "description": "React project: Point and click game",
+            "url": "https://github.com/Brullegupp/Speluppgift"
         },
         {
-            "cover": "/portfolio/1/ibeacon.png",
-            "title": "iBeacon",
-            "description": "Wordpress site",
-            "url": "http://ibeacon.se"
+            "cover": "/portfolio/1/ds quiz.png",
+            "title": "Dark Souls Quiz",
+            "description": "Angular project: Videogame quiz",
+            "url": "https://github.com/Brullegupp/Quiz"
         }
     ]
 }
